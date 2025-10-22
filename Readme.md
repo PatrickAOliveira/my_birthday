@@ -1,0 +1,1 @@
+Projeto de uma landing page como tema principal o meu aniversário, incluindo uma contagem de dias para meu aniversário. Foram utilizadas as seguintes ferramentas para esse projeto: Parcel, JavaScript, SASS, HTML5 e NodeJS.
