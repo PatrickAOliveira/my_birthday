@@ -20,6 +20,7 @@
 	"homepage": "https://github.com/PatrickAOliveira/my_birthday#readme",
 	"devDependencies": {
 		"@parcel/transformer-sass": "^2.16.0",
-		"parcel": "^2.16.0"
+		"parcel": "^2.16.0",
+		"sharp": "^0.33.5"
 	}
 }
